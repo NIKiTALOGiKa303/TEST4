@@ -1,0 +1,50 @@
+body{
+    background-color:azure;
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    
+}
+header{
+    background-color: blanchedalmond;
+    border-radius: 10px;
+    text-align:center;
+    padding: 10px;
+}
+nav{
+    border:4px dashed slategrey;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+nav a{
+    background-color: antiquewhite;
+    padding: 5px;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+.img{
+    border-radius: 10px;
+    border:5px dashed gray;
+    padding: 5px;
+    margin-right: 20px;
+}
+.img-container{
+    text-align: center;
+}
+footer{
+    background-color: wheat;
+    padding: 10px;
+}
+footer a{
+    color:blue;
+
+}
+footer img{
+    width: 100px;
+}
+.bloc{
+    border: 5px dashed gray;
+    padding: 15px;
+    margin-bottom: 20px;
+    
+}
